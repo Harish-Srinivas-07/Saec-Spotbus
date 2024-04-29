@@ -84,9 +84,11 @@ To experience the benefits of SAEC Spotbus, follow these simple steps:
 │   ├── dashboard.dart
 │   ├── lateform.dart
 │   └── live.dart
+
 ├── services
 │   ├── auth_login.dart
 │   └── auth_services.dart
+
 └── User
     ├── busmap.dart
     ├── dashboard.dart
@@ -95,12 +97,14 @@ To experience the benefits of SAEC Spotbus, follow these simple steps:
     ├── userapply.dart
     ├── userlogin.dart
     └── usersignup.dart
+    
 └── utils
     ├── appvalidator.dart
     ├── auth_gate.dart
     ├── auth_gate2.dart
     ├── list.dart
     └── firebase_options.dart
+    
 └── main.dart
 
 ## Screenshots 📸
