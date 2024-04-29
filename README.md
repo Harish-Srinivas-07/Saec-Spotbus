@@ -76,7 +76,7 @@ To experience the benefits of SAEC Spotbus, follow these simple steps:
 5. **Explore Features**: Navigate through the app and explore its various features to understand its functionality.
 
 ### Tree Structure:
-.
+
 ├── Driver
    ├── amblogin.dart
    ├── ambsignup.dart
@@ -89,7 +89,7 @@ To experience the benefits of SAEC Spotbus, follow these simple steps:
    ├── auth_login.dart
    └── auth_services.dart
 
-└── User
+├── User
     ├── busmap.dart
     ├── dashboard.dart
     ├── fgsdfs.dart
@@ -98,14 +98,14 @@ To experience the benefits of SAEC Spotbus, follow these simple steps:
     ├── userlogin.dart
     └── usersignup.dart
     
-└── utils
+├── utils
     ├── appvalidator.dart
     ├── auth_gate.dart
     ├── auth_gate2.dart
     ├── list.dart
     └── firebase_options.dart
     
-└── main.dart
+├── main.dart
 
 ## Screenshots 📸
 
