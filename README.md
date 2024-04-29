@@ -43,23 +43,19 @@ SAEC Spotbus is currently being utilized at the S.A Engineering College, providi
    - Send push notifications to students for bus arrival/departure, delays, and route changes.
    - Notify drivers about updates or messages from the administration.
 
-7. **Accessibility Features:**
-   - Ensure accessibility compliance to cater to users with disabilities.
-   - Implement features like text-to-speech and screen reader compatibility.
-
-8. **Security and Privacy Measures:**
+7. **Security and Privacy Measures:**
    - Encrypt user data and communications to ensure data security.
    - Implement secure authentication mechanisms such as OAuth and JWT.
 
-9. **Late Form Management Automation:**
+8. **Late Form Management Automation:**
    - Allow students to submit late forms through the app.
    - Automate processing and notification of late forms to relevant parties.
 
-10. **Google Maps API Integration:**
+9. **Google Maps API Integration:**
     - Utilize Google Maps API for displaying bus routes, live tracking, and navigation.
     - Integrate nearby bus stop information for student convenience.
 
-11. **Additional Features:**
+10. **Additional Features:**
     - Implement sign-in/sign-up functionality with email verification for authentication.
     - Enable users to retrieve forgotten passwords securely.
     - Include autofill and save password options for user convenience.
