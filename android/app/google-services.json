@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "415882333790",
+    "firebase_url": "https://saec-bus-database-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "saec-bus-database",
+    "storage_bucket": "saec-bus-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415882333790:android:0d5ce9c65ac5f0fb8c6ecf",
+        "android_client_info": {
+          "package_name": "com.example.collegebustracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDshkySFRBRVWJgtJyyI5LBd3kMrPRwugI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
