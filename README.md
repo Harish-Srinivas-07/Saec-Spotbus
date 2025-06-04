@@ -110,6 +110,19 @@ To experience the benefits of SAEC Spotbus, follow these simple steps:
 ![image](https://github.com/Harish-Srinivas-07/Saec-Spotbus/assets/114596900/9a2327d4-6d9a-436e-b70e-c813bf501bd2)
 ![image](https://github.com/Harish-Srinivas-07/Saec-Spotbus/assets/114596900/a7254159-b6b3-4899-bd21-08769e9073c4)
 
+## 📄 License
+
+This project is **not open source**.
+
+All source code, designs, and assets are © 2025 Harish Srinivas SR — **All rights reserved**.  
+The repository is public **for demonstration and portfolio purposes only**.
+
+You may not use, copy, modify, or distribute any part of this project without **explicit written permission**.
+
+🔒 Unauthorized use is a violation of copyright law and may result in legal action.
+
+📬 For permission or inquiries, contact: [sr.harishsrinivas@gmail.com]
+
 
 ## Get Involved 🤝
 
